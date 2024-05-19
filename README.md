@@ -5,4 +5,4 @@ In oltre permette di fare il procedimento inverso quindi da un testo scritto man
 
 ## Dipendenze
 * [OpenCV](https://github.com/opencv/opencv)
-* [Google ZXing](https://github.com/zxing/zxin)
+* [Google ZXing](https://github.com/zxing/zxing)
