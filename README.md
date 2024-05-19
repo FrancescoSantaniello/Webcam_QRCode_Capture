@@ -4,5 +4,5 @@ Questo software permette di catturare QR code dalla webcam e di decodificarli, s
 In oltre permette di fare il procedimento inverso quindi da un testo scritto manualmente o importato da un documento codificarlo in QR code.
 
 ## Dipendenze
-* OpenCV
-* Google ZXing
+* [OpenCV](https://github.com/opencv/opencv)
+* [Google ZXing](https://github.com/zxing/zxin)
